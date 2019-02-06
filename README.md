@@ -5,10 +5,10 @@
 ![Zach Lieberman](images/Messa_di_Voce_1.jpg?raw=true "Zach Lieberman")
 
 
-![Zach Lieberman](images/Messa_di_Voce_1.jpg?raw=true "Zach Lieberman")
+![Zach Lieberman](images/Messa_di_Voce_2.jpg?raw=true "Zach Lieberman")
 
 
-![Zach Lieberman](images/Messa_di_Voce_1.jpg?raw=true "Zach Lieberman")
+![Zach Lieberman](images/Messa_di_Voce_3.jpg?raw=true "Zach Lieberman")
 
 This piece of art is really interesting to me becuase it its use of audio and visuals.  Users are expected to sing, and their vocals are then run through a certain software that distorts them and creates these beautiful images to express the users' voices. I find this to be an extremely interesting and unique way to have a user interract with a work of art. What drew me to this work was the way in which users are expected to interact with the work as well as the wide variety of visual outcomes that are produced by the work.  For example, one can see in the images above that the visualizations of users' voices range from black and white shapes to vibrant and glowing colors.  The use of software to analyze, manipulate, and create these beautiful pieces is fascinating to me.   
 
